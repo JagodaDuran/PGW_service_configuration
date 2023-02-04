@@ -1,0 +1,9 @@
+*
+!src/
+!src/*
+!include/
+!include/*
+!Makefile
+!.gitignore
+!python/
+!python/*
